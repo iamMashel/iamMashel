@@ -1,7 +1,3 @@
-Here's your **Gilfoyle-style** README for your GitHub profile:  
-
----
-
 # **👁️ Who the Hell Am I?**  
 I’m a **Machine Learning Engineer** who builds **scalable, efficient, and production-ready ML systems.** Unlike most so-called "AI experts," I don’t just train models—I make sure they actually work in **production** without falling apart like a junior dev’s first API.  
 
