@@ -35,7 +35,7 @@ I’m a **Systems Architect & Machine Learning Engineer** who builds **scalable,
 ❌ Overengineered garbage that exists just to flex tech stacks.  
 ❌ AI "projects" that are just pre-trained models repackaged.  
 ❌ Security advice that doesn’t assume **worst-case scenarios.**  
-❌ Useless cloud diagrams that look fancy but mean nothing.  
+❌ Useless cloud diagrams that look fancy but mean nothing.
 
 ## **📫 How to Reach Me**  
 If you need help with **system architecture, ML engineering, or security**, message me. If you’re here to talk about **NFTs, "prompt engineering," or why JavaScript is the future of AI**, don’t.  
