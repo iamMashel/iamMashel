@@ -40,4 +40,4 @@ I’m a **Systems Architect & Machine Learning Engineer** who builds **scalable,
 ## **📫 How to Reach Me**  
 If you need help with **system architecture, ML engineering, or security**, message me. If you’re here to talk about **NFTs, "prompt engineering," or why JavaScript is the future of AI**, don’t.  
 
-
+**Let's build something worth securing.**  
