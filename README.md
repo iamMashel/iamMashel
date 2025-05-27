@@ -1,6 +1,6 @@
 <h1 align="center"> Mashel Odera </h1>
 
-<h2 align="center"> ML | DS | MLOps </h2>
+<h4 align="center"> ML | DS | MLOps </h4>
   
 ## **🔮 What I Work On**  
 analyse data, run models, make predictions. 
