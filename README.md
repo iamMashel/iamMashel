@@ -8,7 +8,7 @@ Focus areas:
 - Scalable LLM pipelines  
 - AI pipelines optimized for traceable logic, modularity, and real-world execution. 
 - Human-machine interface tooling
-- Output scoring breakdowns (mock LLM grading)
+- Output scoring breakdowns (LLM grading)
 - Domain work (Logic, Ethics, Critique)
 - Systems architecture & reasoning frameworks
 
