@@ -7,7 +7,9 @@ Engineering intelligent systems with modular design, low overhead, and clear log
 Focus areas:  
 - Scalable LLM pipelines  
 - AI pipelines optimized for traceable logic, modularity, and real-world execution. 
-- Human-machine interface tooling  
+- Human-machine interface tooling
+- Output scoring breakdowns (mock LLM grading)
+- Domain work (Logic, Ethics, Critique)
 - Systems architecture & reasoning frameworks
 
 Additional areas: numerical reasoning, logic optimization, UI/UX for intelligent systems.  
