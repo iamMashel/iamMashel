@@ -2,7 +2,7 @@ Greetings and welcome to my GitHub profile!
 
 ### Overview
 
-Working on AI systems, LLM integration, and B2B SaaS infrastructure.
+Engineering intelligent systems with modular design, low overhead, and clear logic paths.
 
 Focus areas:  
 - Scalable LLM pipelines  
