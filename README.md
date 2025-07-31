@@ -2,7 +2,7 @@ Greetings and welcome to my GitHub profile!
 
 ### Overview
 
-Engineering intelligent systems with modular design, low overhead, and clear logic paths.
+Engineering intelligent systems and evaluating large language models for precision, bias, and reasoning depth. Strong focus on modular logic, prompt testing, and behavioral quality of AI outputs.
 
 Focus areas:  
 - Scalable LLM pipelines  
