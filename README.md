@@ -6,7 +6,7 @@ Working on AI systems, LLM integration, and B2B SaaS infrastructure.
 
 Focus areas:  
 - Scalable LLM pipelines  
-- Full-stack SaaS platforms  
+- AI pipelines optimized for traceable logic, modularity, and real-world execution. 
 - Human-machine interface tooling  
 - Systems architecture & reasoning frameworks
 
