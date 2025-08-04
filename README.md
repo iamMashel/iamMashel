@@ -21,11 +21,7 @@ Goal: streamlined, modular, and production-grade AI applications.
 
 
 ### Stats
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamMashel&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/iamMashel)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamMashel&layout=compact&theme=tokyonight)](https://github.com/iamMashel)
-
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamMashel&theme=tokyo-night)](https://github.com/iamMashel)
 
 ---
