@@ -22,8 +22,11 @@ Goal: streamlined, modular, and production-grade AI applications.
 
 ### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamMashel&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/iamMashel)  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamMashel&theme=tokyo-night)](https://github.com/iamMashel)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamMashel&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamMashel&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamMashel&theme=dracula)
 ---
 
 ### Tech
