@@ -1,4 +1,4 @@
-![Uploading -Stephen-Hawking-Quote-Work-gives-you-meaning-and-purpose-and-life.jpg…]()
+
 
 Greetings and welcome to my GitHub profile!
 
