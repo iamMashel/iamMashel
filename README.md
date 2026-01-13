@@ -1,4 +1,4 @@
-![bg-linkedin](https://github.com/user-attachments/assets/71e1a225-1b58-430d-b3db-a61fbc056217)
+![Uploading -Stephen-Hawking-Quote-Work-gives-you-meaning-and-purpose-and-life.jpg…]()
 
 Greetings and welcome to my GitHub profile!
 
