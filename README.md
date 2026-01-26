@@ -1,5 +1,3 @@
-![Work gives you meaning](header-quote.png)
-
 # Hi there! I'm Mashel 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=Building+Scalable+AI+Systems;Creating+Next-Gen+Agentic+Workflows;Python+%7C+FastAPI+%7C+Next.js;Open+Source+Contributor)](https://git.io/typing-svg)
