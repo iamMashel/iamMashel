@@ -10,6 +10,8 @@ I'm an **AI Engineer (Agentic AI) & Full-Stack Developer** specializing in auton
 🌱 **Learning:** Agentic Design Patterns & Advanced RAG.
 👯 **Looking to collaborate on:** Open-source AI agents and autonomous systems.
 
+
+Just design good systems. All you have to do is perfectly isolate your bounded contexts and ensure every asynchronous event is flawlessly idempotent. The code practically writes itself after that! ~ SeniorDevGuru
 ---
 
 ### 📊 GitHub Stats
